@@ -1,0 +1,14 @@
+
+input{
+  width: 100%;
+}
+
+.addbtn{
+  min-width: 73px;
+  float: left;
+}
+.kg-row{
+  margin: 10px 5px;
+}
+
+
